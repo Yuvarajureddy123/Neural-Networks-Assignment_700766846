@@ -1,1 +1,3 @@
-# Neural-Networks-Assignment_700766846
+# Neural-Networks-Assignment
+# Yuvaraju Reddy
+# 700766846
